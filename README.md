@@ -1,0 +1,2 @@
+# taskerforSyncClipboard
+SyncClipboard对应的Tasker配置参考文件
